@@ -966,3 +966,108 @@ h2{
 #uog .containerUog ol{
 	padding-left: 50px;
 }
+
+/* Exchange Section */
+#exchange .exchange{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+#exchange .containerEx{
+	margin: auto;
+	width: 70%;
+	padding-top: 10px;
+   	justify-content: flex-start;
+   	vertical-align: text-top;
+   	margin-top: 100px;
+}
+#exchange .containerEx h2{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 25px;
+	color: #575757;
+}
+#exchange .containerEx p{
+	font-family: 'Titillium Web', sans-serif;
+	color: #575757;
+}
+#exchange .containerEx a{
+	font-family: 'Titillium Web', sans-serif;
+	color: #EE921A;
+}
+#exchange .containerEx a:hover{
+	color: #E35205;
+}
+#exchange .containerEx img{
+	width: 295px;
+}
+#exchange .containerEx p strong{
+	font-family: 'Titillium Web', sans-serif;
+	color: #000000;
+	font-weight: 3000;
+}
+#exchange .containerEx .table img{
+	width: 700px;
+}
+#exchange .containerEx li{
+	font-family: 'Titillium Web', sans-serif;
+	color: #000000;
+	font-size: 16px;
+	font-weight: bold;
+	padding-left: 50px;
+}
+
+/* Internship Section */
+#internship .internship{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+#internship .containerintern{
+	margin: auto;
+	width: 70%;
+	padding-top: 10px;
+   	justify-content: flex-start;
+   	vertical-align: text-top;
+   	margin-top: 100px;
+}
+#inernship .containerintern h2{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 25px;
+	color: #575757;
+}
+#internship .containerintern p{
+	font-family: 'Titillium Web', sans-serif;
+	color: #575757;
+}
+#internship .containerintern li{
+	font-family: 'Titillium Web', sans-serif;
+	color: #575757;
+	font-size: 16px;
+}
+#internship .containerintern li strong{
+	font-family: 'Titillium Web', sans-serif;
+	color: #000;
+	font-size: 16px;
+}
+#internship .containerintern li a{
+	font-family: 'Titillium Web', sans-serif;
+	color: #EE921A;
+	font-size: 16px;
+}
+#internship .containerintern ol{
+	padding-left: 50px;
+}
+#internship .containerintern ul{
+	padding-left: 50px;
+}
+#internship .containerintern p strong{
+	font-family: 'Titillium Web', sans-serif;
+	color: #000000;
+	font-weight: 3000;
+}
+#internship .containerintern p a{
+	color: #EE921A;
+}
+#internship .containerintern p a:hover{
+	color: #E35205;
+}
