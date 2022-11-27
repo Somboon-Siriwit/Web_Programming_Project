@@ -1,5 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
 * {
 	padding: 0;
 	margin: 0;
@@ -1070,4 +1070,58 @@ h2{
 }
 #internship .containerintern p a:hover{
 	color: #E35205;
+}
+/* Requirement */
+#requirement .requirement{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+#requirement .containerreq{
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+	padding-top: 10px;
+   	justify-content: center;
+	display: center;
+   	vertical-align: text-top;
+   	margin-top: 100px;
+}
+#requirement .containerreq .header{
+	text-align: center;
+}
+#requirement .containerreq .header h2{
+	font-size: 18px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+	color: #57585A;
+}
+#requirement .containerreq .header img{
+	height: 200px;
+	width: auto;
+}
+#requirement .containerreq p{
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #57585A;
+}
+#requirement .containerreq .section h2{
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+	color: #57585A;
+}
+#requirement .containerreq ul{
+	padding-left: 50px;
+}
+#requirement .containerreq h2{
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: bold;
+	color: #57585A;
+}
+#requirement .containerreq h2 span{
+	font-size: 16px;
+	font-family: 'Titillium Web', sans-serif;
+	color: blue;
 }
