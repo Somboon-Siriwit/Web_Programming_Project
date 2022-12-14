@@ -1125,3 +1125,8 @@ h2{
 	font-family: 'Titillium Web', sans-serif;
 	color: blue;
 }
+#requirement .containerreq img{
+	width: 500px;
+	height: auto;
+	margin-left: auto;
+}
